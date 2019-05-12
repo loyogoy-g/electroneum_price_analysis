@@ -1,2 +1,3 @@
 # electroneum_price_analysis
-Not Yet Done
+✅ Data Mining
+☐ Price Prediction / ML
